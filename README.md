@@ -1,4 +1,4 @@
-# Rainbow Six Vegas 2: LAN patch
+# Rainbow Six Vegas 2: LAN & Soundloop patch
 
 A small `dsound.dll` for the PC version of *Tom Clancy's Rainbow Six Vegas 2*. It fixes the stuck gunfire sound in
 multiplayer, turns voice chat off, and raises the player and terrorist limits. You no longer need a CPU affinity tool.
